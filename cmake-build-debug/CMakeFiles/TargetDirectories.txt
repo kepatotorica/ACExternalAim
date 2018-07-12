@@ -1,0 +1,3 @@
+C:/myGit/ACFirstExternalAimbot/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/myGit/ACFirstExternalAimbot/cmake-build-debug/CMakeFiles/ACFirstExternalAimbot.dir
+C:/myGit/ACFirstExternalAimbot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
